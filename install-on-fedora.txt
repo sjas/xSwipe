@@ -1,0 +1,8 @@
+yum install:
+
+  libX11-devel
+  libXtst-devel
+  
+Maybe also the regulars, i don't remember correctly.
+
+If afterwards in the make-makeinstall cycle things are forbidden, use sudo if you don't care.
